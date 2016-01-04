@@ -4,7 +4,8 @@
 [![Coverity Scan Build Status](https://scan.coverity.com/projects/5719/badge.svg)](https://scan.coverity.com/projects/5719)
 
 <p align="center">
-	![neopedersia](bin/assets/doc/hero.png)
+<img src="bin/assets/doc/hero.png" />
+![neopedersia](bin/assets/doc/hero.png)
 </p>
 
 Nexus Wars style game.
